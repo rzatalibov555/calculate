@@ -3,12 +3,13 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 90vh;
+    background: purple;
   }
   
   .container {
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #ffffff;
+    box-shadow: 13px 13px 20px #d145db, -13px -13px 20px #da6adc;
     display: flex;
     align-items: center;
     justify-content: center;
